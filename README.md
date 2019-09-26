@@ -20,7 +20,7 @@ Retrieves song information for a track:
 
 ![spotify search](screen-shots/spotify_image.png)
 
-`node liri.js spotify-this-song "American Girl"`
+`node liri.js spotify-this-song came out swinging`
 
 ### Get Movie Info
 
@@ -28,7 +28,7 @@ Retrieves movie information for a movie:
 
 ![movie search](screen-shots/movie_image.png)
 
-`node liri.js movie-this "Star Wars"`
+`node liri.js movie-this "the great gatsby"`
 
 ### Get Tour Info
 
@@ -36,7 +36,7 @@ Retrieves tour dates and venue information:
 
 ![tour search](screen-shots/bands_image.png)
 
-`node liri.js bands-in-town "Neck Deep"`
+`node liri.js bands-in-town rainbow kitten surprise`
 
 ### Get Random Info
 
