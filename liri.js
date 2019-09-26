@@ -1,8 +1,8 @@
 require("dotenv").config();
-var fs = require("fs")
+var fs = require("fs");
 var keys = require("./keys.js");
-var axios = require("axios")
-var moment = require("moment")
+var axios = require("axios");
+var moment = require("moment");
 
 var Spotify = require('node-spotify-api');
 
@@ -96,6 +96,22 @@ Date:      ${date}
         
     });
 };
+function doTheThing(){
+    fs.readFile("random.txt", "utf8", function(err, data) {
+		if (err) {
+			logOutput.error(err);
+		} else {
+
+			var randomArray = data.split(",");
+
+            action = randomArray[0];
+            
+            argument = randomArray[1];
+            
+			doNext(action, argument);
+		};
+	});
+};
    
    
 
@@ -115,6 +131,10 @@ function doNext(uC, aN) {
 
         case "bands-in-town":
             grabBands(aN);
+            break;
+
+        case "do-what-it-says": 
+            doTheThing();
             break;
 
         default:
