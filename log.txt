@@ -36,3 +36,22 @@ Plot:         Earth's mightiest heroes must come together and learn to fight as 
 
 Actors:       Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
 IMDb Raiting: 8.0
+
+    ---------LIRI found this for you---------
+Venue:     Xcel Energy Center
+Location:  St Paul, United States
+Date:      09/26/2019
+    -----------------------------------------
+------ Liri found this for you -----
+Title:        The Avengers
+Year:         undefined
+Rated:        PG-13
+IMDB Raiting: 8.0
+Country:      USA
+Language:     English, Russian, Hindi
+Plot:         
+Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+
+Actors:       Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+IMDb Raiting: 8.0
+-------------------------------------
