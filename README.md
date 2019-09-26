@@ -28,7 +28,7 @@ Retrieves movie information for a movie:
 
 ![movie search](screen-shots/movie_image.png)
 
-`node liri.js movie-this "the great gatsby"`
+`node liri.js movie-this the great gatsby`
 
 ### Get Tour Info
 
