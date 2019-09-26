@@ -34,7 +34,7 @@ Retrieves movie information for a movie:
 
 Retrieves tour dates and venue information:
 
-![tour search](screen_shots/bands_image.png)
+![tour search](screen-shots/bands_image.png)
 
 `node liri.js bands-in-town "Neck Deep"`
 
@@ -50,6 +50,6 @@ Gets random text inside a file and does what it says:
 
 Finally it logs your results to a log.txt file:
 
-![loged](screen-shots/log-image.png)
+![loged](screen-shots/log_image.png)
 
 
