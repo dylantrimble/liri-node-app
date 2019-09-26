@@ -18,7 +18,7 @@ Here's a quick rundom of the commands you can use in LIRI.
 
 Retrieves song information for a track:
 
-/Users/dyltrimble/Desktop/documents/liri-node-app/screen-shots/spotify_image.png
+![spotify search](screen-shots/spotify_image.png)
 
 `node liri.js spotify-this-song "American Girl"`
 
@@ -26,11 +26,15 @@ Retrieves song information for a track:
 
 Retrieves movie information for a movie:
 
+![movie search](screen-shots/movie_image.png)
+
 `node liri.js movie-this "Star Wars"`
 
 ### Get Tour Info
 
-Retrieves tour dates and venue information
+Retrieves tour dates and venue information:
+
+![tour search](screen_shots/bands_image.png)
 
 `node liri.js bands-in-town "Neck Deep"`
 
@@ -38,4 +42,14 @@ Retrieves tour dates and venue information
 
 Gets random text inside a file and does what it says:
 
+![random thing](screen-shots/rando_image.png)
+
 `node liri.js do-what-it-says`
+
+### Log it all
+
+Finally it logs your results to a log.txt file:
+
+![loged](screen-shots/log-image.png)
+
+
