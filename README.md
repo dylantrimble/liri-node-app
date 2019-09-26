@@ -1,7 +1,7 @@
 # liri-node-app
 
 LIRI is a Language Interpretation and Recognition Interface.
-Use LIRI to get your latest tweets, find out about a song,
+Use LIRI to get atrist tour dates, find out about a song,
 or a movie, or just choose a random action from your own random file.
 
 ## Installs
