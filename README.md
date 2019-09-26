@@ -18,7 +18,7 @@ Here's a quick rundom of the commands you can use in LIRI.
 
 Retrieves song information for a track:
 
-![spotify search](screen-shots/spotify_image)
+/Users/dyltrimble/Desktop/documents/liri-node-app/screen-shots/spotify_image.png
 
 `node liri.js spotify-this-song "American Girl"`
 
